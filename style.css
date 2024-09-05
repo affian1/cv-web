@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f4f4;
+    color: #333;
+}
+h1 {
+    color: #0056b3;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+}
+.cv-section {
+    margin-bottom: 20px;
+}
+
